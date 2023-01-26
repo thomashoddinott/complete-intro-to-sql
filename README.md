@@ -1,3 +1,5 @@
+<h3>Course notes: https://sql.holt.courses</h3>
+
 <p align="center"><a href="https://frontendmasters.com/workshops/complete-intro-sql/"><img alt="code logo" title="code" src="./public/images/course-icon.png" /></a></p>
 
 [![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)][fem]
